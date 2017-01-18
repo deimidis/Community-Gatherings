@@ -1,4 +1,4 @@
-# Community Gatherings
+## Community Gatherings
 
 
 ## Do you want to organize a Gathering for your local Community?
