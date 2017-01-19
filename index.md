@@ -1,3 +1,5 @@
+# Community Gatherings
+
 ## Do you want to organize a Gathering for your local Community?
 
 Community Gatherings are important events to share learning and knowledge with your communities and align your plans and ideas with Mozilla's goals. Community Gatherings had a set of common goals:
@@ -12,6 +14,17 @@ Community Gatherings are important events to share learning and knowledge with y
 - [European Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/European_Gathering_2016)
 - [Arabic Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/Arabic_Gathering_2016)
 - [Mexico Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/Mexico_Gathering_2016)
+
+## How to start the organization
+
+We recommend the following path to propose a Community Gathering: 
+
+1. Read [Logistic](https://drive.google.com/open?id=0B5DvZy5sKHH1NWdpMkdEczBKYmM) and [Content playbook](https://drive.google.com/open?id=0B5DvZy5sKHH1MFVGZkRaYUVlbGM)
+2. Read Community Gathering FAQ at Discourse (pending to be created)
+3. Write a [Briefing document](https://drive.google.com/open?id=1Ev7L5DjZrhkfF_ihwl4OZf5iCsNr5MZ1Fc9vK-F2nzE) with your current plan
+4. Sent the Briefing to Reps/regional Team and Reps Council
+5. After their review, begin to work in the rest of documents and planning
+6. Begin the organization process through Reps program
 
 ## Logistics resources
 - [Logistics Playbook](https://drive.google.com/file/d/0B5DvZy5sKHH1NWdpMkdEczBKYmM/view?usp=sharing) (Long Version)
