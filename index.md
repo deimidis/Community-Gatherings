@@ -7,21 +7,25 @@ Community Gatherings are important events to share learning and knowledge with y
 
 ## Community Gatherings in 2016
 
-* [Brazil Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/Brazil_2016)
-* [India Community Gathering](https://wiki.mozilla.org/India/Mozilla_India_Meetup_2016)
-* [European Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/European_Gathering_2016)
-* [Arabic Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/Arabic_Gathering_2016)
-* [Mexico Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/Mexico_Gathering_2016)
+- [Brazil Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/Brazil_2016)
+- [India Community Gathering](https://wiki.mozilla.org/India/Mozilla_India_Meetup_2016)
+- [European Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/European_Gathering_2016)
+- [Arabic Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/Arabic_Gathering_2016)
+- [Mexico Community Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/Mexico_Gathering_2016)
 
 ## Logistics resources
 - [Logistics Playbook](https://drive.google.com/file/d/0B5DvZy5sKHH1NWdpMkdEczBKYmM/view?usp=sharing) (Long Version)
 - [Logistics Playbook](https://drive.google.com/file/d/0B5DvZy5sKHH1dlpCSGh5bTRqNm8/view?usp=sharing) (Short Version)
-- Code of Conduct template
+- [Logistics template](https://docs.google.com/spreadsheets/d/18Ap_69HP7S0FftjJ4phFbgb2Fd6aS20OzbBvtlySjaA/edit?usp=sharing) (Spreadsheet)
+- [Logistics roadmap template](https://docs.google.com/spreadsheets/d/1kR2I2FCBw12CrKdIVmY6HmlPRUd6DEkSIVJjEhIYE9I/edit?usp=sharing)
 
 ## Content resources
-- Content Playbook (Long Version)
-- Content Playbook (Short Version)
-- Agenda Template
+- [Content Playbook](https://drive.google.com/file/d/0B5DvZy5sKHH1eVZjM3lmajV1SjA/view?usp=sharing)
+- [Agenda Template](https://docs.google.com/spreadsheets/d/1TXcyu08b32wjrQGyegJVlhO4Tpk5CVvvHacDe7p25gI/edit?usp=sharing)
+
+## Code of Conduct
+
+We are a diverse community, and we want that all Community Gatherings follow the [Community Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). All meetings under this format, should adapt our Code of Conduct from any of our gatherings that you can find in our wiki (like this one from the [Arabic Gathering](https://wiki.mozilla.org/Participation/Community_Gatherings/Arabic_Gathering_2016/Code_of_Conduct))
 
 ## Assets
 - [Presentation template](https://www.mozilla.org/en-US/styleguide/communications/presentations/)
